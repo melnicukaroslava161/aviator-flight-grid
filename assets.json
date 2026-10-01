@@ -1,0 +1,59 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, glossy 3D white airplane with glowing sky-blue edge trim, single centered aircraft seen from above-side, dark navy radial gradient background, crisp studio render, no text, no scene, no landscape"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game menu background, deep navy night sky above a glowing air-traffic corridor grid, soft cyan light beams, distant clouds, cinematic 3D render, vibrant, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game background, soft blurred dark blue night sky with faint clouds and subtle cyan haze, very low contrast for UI overlay, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "bg_result",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game result screen background, dark navy sky with a glowing cyan runway light strip on the horizon, soft golden rim light, cinematic 3D render, no text, no UI elements"
+    },
+    {
+      "name": "sprite_plane",
+      "type": "sprite",
+      "prompt": "One single cute cartoon airplane facing right, white fuselage with cyan accent stripe, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_cloud",
+      "type": "sprite",
+      "prompt": "One single soft puffy cartoon cloud, pale blue-white, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_gate_blue",
+      "type": "sprite",
+      "prompt": "One single glowing sky-blue vertical ring gate made of light, tall rounded arch, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_gate_indigo",
+      "type": "sprite",
+      "prompt": "One single glowing indigo violet vertical ring gate made of light, tall rounded arch, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_gate_gold",
+      "type": "sprite",
+      "prompt": "One single glowing golden yellow vertical ring gate made of light, tall rounded arch, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_storm",
+      "type": "sprite",
+      "prompt": "One single angry dark storm cloud with a bright red lightning bolt, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_marker",
+      "type": "sprite",
+      "prompt": "One single glossy golden navigation beacon diamond with soft glow, centered icon, 3D render, isolated on plain white, no other objects"
+    }
+  ]
+}
